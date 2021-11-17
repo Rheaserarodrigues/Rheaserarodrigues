@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+My repositories are down below with various Projects, My projects are a work in progress :blush: :hammer:
+I'm Rhea Sera Rodrigues ,
+</br>
+A Tech enthusiast and a Budding Coder :woman_technologist:,Im passionate with various tech fields like cloud computing :cloud:, Artifical Intelligence and Machine Learning, Data Science and Data Analytics :chart_with_upwards_trend:,Mobile Application development :iphone:, Internet of Things and Wireless Networks. Member of Women in Tech and motivated to empower others to code.
+<br>
+Im Currently pursuing my Bachelors of Engineering in Information Technology :woman_student:,
+</br>
+My repositories are down below with various Projects, My projects are a work in progress:hammer:
 <!--
 **Rheaserarodrigues/Rheaserarodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
