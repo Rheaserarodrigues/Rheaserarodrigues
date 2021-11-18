@@ -7,6 +7,8 @@ A Tech enthusiast and a Budding Coder :woman_technologist:,Im passionate with va
 Im Currently pursuing my Bachelors of Engineering in Information Technology :woman_student:,
 </br>
 My repositories are down below with various Projects, My projects are a work in progress:hammer:
+### My Skill Set 🧰:computer:
+
 <!--
 **Rheaserarodrigues/Rheaserarodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
